@@ -1,0 +1,5 @@
+academy/ausgrads/example/hibernate/HibernateUtil.class
+academy/ausgrads/example/entity/Name.class
+academy/ausgrads/example/hibernate/SessionSaveOrUpdateExample.class
+academy/ausgrads/example/hibernate/SessionSaveExample.class
+academy/ausgrads/example/hibernate/SessionPersistExample.class
